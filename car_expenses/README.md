@@ -1,16 +1,16 @@
-# car_expenses
+# Car Expenses
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## See how much your car is worth over a different period of time
 
-This project is a starting point for a Flutter application.
+You can fill in the cost fields
+and see how much your car costs per:
+    year,
+    month,
+    day,
+    hour,
+    minute 
+    and second
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is also a reset button to reset all the fields
