@@ -1,8 +1,5 @@
-# Flutter
-
 # Car Expenses
-
-Flutter project.
+- Flutter project.
 
 ## See how much your car is worth over a different period of time
 
